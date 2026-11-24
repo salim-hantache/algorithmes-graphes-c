@@ -20,6 +20,6 @@ Maximum 100 sommets. Dijkstra exige des poids non négatifs. Le DFS récursif
 peut être limité par la pile sur de très grands graphes. Le graphe d'exemple
 est défini dans `main`.
 
-## À savoir expliquer
+## Notions théoriques abordées
 BFS contre DFS, file et récursion, listes contre matrice d'adjacence,
 invariant de Dijkstra, gestion mémoire et complexités.
